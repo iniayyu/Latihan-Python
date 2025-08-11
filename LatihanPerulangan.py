@@ -4,7 +4,7 @@ sisi = 10
 print("awal for")
 count = 1
 for i in range(sisi):
-    print(count)
+    print("*"*count)
     count += 1
     
 print("akhir dari for")

@@ -28,3 +28,6 @@ def fungsi(input1=1,input2=2,input3=3,input4=4):
 
 print(fungsi())
 print(fungsi(input3=10))
+
+bilangan = (5 % 3 ** 2) + (3 + 2 * 2) * (4 - 2) 
+print(bilangan)
